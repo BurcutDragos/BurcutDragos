@@ -18,7 +18,7 @@ Some aspects that characterize me are punctuality, honesty, perseverance and ord
     - <b>Back-End:</b> C/C++, C#, Java, Python, Ruby, PHP, JavaScript/TypeScript;
     - <b>Database Query Languages:</b> SQL, PL/SQL;
   - <b>Libraries and Software Frameworks:</b>
-    - <b>Front-End:</b> jQuery (JavaScript), React (JavaScript), Bootstrap (CSS), Express.js (JavaScript), Next.js (JavaScript), Angular (TypeScript);
+    - <b>Front-End:</b> jQuery (JavaScript), React (JavaScript), Bootstrap (CSS), Express.js (JavaScript), Next.js (JavaScript), Angular (TypeScript), Blazor (C#);
     - <b>Back-End:</b> Laravel (PHP), .NET (C#), ASP.NET (C#), Ruby on Rails (Ruby), Node.js (JavaScript);
   - <b>Database management systems:</b>
     - <b>SQL:</b> Oracle Database, MySQL, PostgreSQL, MariaDB, SQLite, Microsoft SQL Server, Microsoft Access, IBM Db2;
