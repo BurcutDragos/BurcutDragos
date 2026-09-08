@@ -21,8 +21,7 @@ Outside my professional interests, I am passionate about reading, films and docu
   - Master of Science: Computer Science and Engineering at Stefan cel Mare University of Suceava (Roumania) - 2023 to 2025;
   - Bachelor of Science: Computers and Information Technology at Stefan cel Mare University of Suceava (Roumania) - 2016 to 2020;
   - High School Diploma: Nicu Gane National College - Falticeni (Roumania) - 2012 to 2016; 
-- 🔭 I’m currently working on my dissertation project.
-- 🌱 I’m currently learning:
+- 🌱 & 🔭 I’m currently learning:
   - <b>Programming Languages:</b>
     - <b>Front-End:</b> HTML5, CSS/SASS, JavaScript/TypeScript;
     - <b>Back-End:</b> C/C++, C#, Java, Python, Ruby, PHP, JavaScript/TypeScript;
