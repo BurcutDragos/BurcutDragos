@@ -49,6 +49,7 @@ Outside my professional interests, I am passionate about reading, films and docu
 - 💬 Ask me about ... -->
 - 📫 How to reach me:
   - Yahoo Mail: dragos.burcut@yahoo.com
+  - Gmail: dragos.burcut@gmail.com, burcutdragos@gmail.com
   - LinkedIn: https://www.linkedin.com/in/ioan-dragos-burcut/  
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: ... -->
